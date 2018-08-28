@@ -1,6 +1,6 @@
 
 # coding: utf-8
-
+#This is the tensorflow api of object detection which detect the moving objects and measures their velocity and the distance from the camera
 # In[1]:
 
 
