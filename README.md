@@ -10,3 +10,7 @@ Red dots-Sharp turn
 Blue dots- high acceleration .
 now we need to catch those who dont drive good .
 ![github-large](https://github.com/Stenzil/Road-Safety-NITI-AYOG/blob/master/images/Screen%20Shot%202018-08-28%20at%2010.06.10%20PM.png?raw=true)
+
+driving in dangerous and driving in night makes it more hazardous .
+so we need a script that makes the vehicles clear at night even those who don't have lights in them, like cycles don't have any lights in them so its not easy to spot cycle drivers at night . so here's the solution .
+![github-large](https://github.com/Stenzil/Road-Safety-NITI-AYOG/blob/master/images/Screen%20Shot%202018-08-28%20at%2010.06.17%20PM.png?raw=true)
