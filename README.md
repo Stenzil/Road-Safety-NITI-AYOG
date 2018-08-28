@@ -5,3 +5,8 @@ It was a project done for niti ayog's road safety problem. This software compris
 3.It detects vehicles and tracks their number if they try to drive over the speed limit.
 4. It provides a vision for driving at night.
 ![](images/mapss.png)
+Here in this image the black dots specify the region where you need to apply brakes
+Red dots-Sharp turn 
+Blue dots- high acceleration .
+now we need to catch those who dont drive good .
+![github-large](https://github.com/Stenzil/Road-Safety-NITI-AYOG/blob/master/images/Screen%20Shot%202018-08-28%20at%2010.06.10%20PM.png?raw=true)
