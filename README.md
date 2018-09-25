@@ -19,4 +19,4 @@ it also detects the drowsiness while driving which can be due to tiredness or if
 Atlast to check the working of this software we physically noted the locations of the danger spots and then we plotted them on the google maps along with the location spots predicted by the software .
 ![](images/bluzo.png)
 The accuracy is basically measured on the basis of the distance between the original location and the predicted location which came out to be this :
-![](images/tan.png)
+![](images/bb.png)
