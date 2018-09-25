@@ -16,3 +16,5 @@ so we need a script that makes the vehicles clear at night even those who don't 
 ![github-large](https://github.com/Stenzil/Road-Safety-NITI-AYOG/blob/master/images/Screen%20Shot%202018-08-28%20at%2010.06.17%20PM.png?raw=true)
 it also detects the drowsiness while driving which can be due to tiredness or if the driver is drunk, this is a real time feature which keeps running untill the vehicle is on .
 ![](images/Picture1.png)
+Atlast to check the working of this software we physically noted the locations of the danger spots and then we plotted them on the google maps along with the location spots predicted by the software .
+![](images/bluzo.png)
