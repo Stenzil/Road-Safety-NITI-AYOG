@@ -11,7 +11,7 @@ now we need to catch those who dont drive good .
 ![github-large](https://github.com/Stenzil/Road-Safety-NITI-AYOG/blob/master/images/Screen%20Shot%202018-08-28%20at%2010.06.10%20PM.png?raw=true)
 
 it also detects the drowsiness while driving which can be due to tiredness or if the driver is drunk, this is a real time feature which keeps running untill the vehicle is on .
-![](images/Picture1.png)
+
 Atlast to check the working of this software we physically noted the locations of the danger spots and then we plotted them on the google maps along with the location spots predicted by the software .
 ![](images/bluzo.png)
 The accuracy is basically measured on the basis of the distance between the original location and the predicted location which came out to be this :
