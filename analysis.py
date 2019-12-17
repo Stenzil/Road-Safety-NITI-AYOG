@@ -66,7 +66,7 @@ for maal in arr:
    else :
        pass
 #to get the location 
-geolocator = Nominatim(user_agent="specify_your_app_name_here")
+geolocator = Nominatim(user_agent="Analysis")
 location = geolocator.reverse("23.03962271,72.5385266")
 print(location.address)
 #googles function to find the distance 
