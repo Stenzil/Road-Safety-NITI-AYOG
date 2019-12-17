@@ -16,4 +16,6 @@ Atlast to check the working of this software we physically noted the locations o
 ![](images/bluzo.png)
 The accuracy is basically measured on the basis of the distance between the original location and the predicted location which came out to be this :
 ![](images/bb.png)
+
+
 so an error of 3-4 meters is negligible while driving and is even more safe.
